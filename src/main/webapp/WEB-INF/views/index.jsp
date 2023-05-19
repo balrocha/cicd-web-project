@@ -4,8 +4,8 @@
 <body>
     <h2>Working on Tomcat server</h2>
     <hr>
-    <h1>CI/CD Test Application</h1>
+    <h1>CI/CD Test Application deployed by Ansible</h1>
     <h2><fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 1.1</h3>
+    <h3>Version: 1.2</h3>
 </body>
 </html>
